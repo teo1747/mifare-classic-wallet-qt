@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/image">
-        <file>lil durk mugshot.jpg</file>
         <file>mambo.jpg</file>
     </qresource>
 </RCC>
